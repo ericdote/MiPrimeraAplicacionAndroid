@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mi Primer Programa</string>
+    <string name="textView">Hola Mon</string>
+</resources>
